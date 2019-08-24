@@ -1,6 +1,4 @@
 # Name: Nikhil Khosla
-#  Block: 4th
-#  Email: 2018nkhosla@tjhsst.edu
 import time
 import math
 import heapq
